@@ -1,7 +1,7 @@
 '''
 In Python, a variable is a name that refers to a value stored in the computer's memory.
  Unlike some other programming languages, Python does not require you to
- explicitly declare the type of a variable. Instead, the type of the variable is inferred
+ explicitly declare the type of variable. Instead, the type of the variable is inferred
  from the value assigned to it. Here's how you declare and use variables in Python:
 
 '''
